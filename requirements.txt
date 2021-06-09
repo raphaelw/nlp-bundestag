@@ -1,6 +1,7 @@
-pandas
-matplotlib
-seaborn
-pyarrow
-spacy
-gensim
+scipy==1.6.2
+pandas==1.2.4
+matplotlib==3.3.4
+seaborn==0.11.1
+pyarrow==4.0.1
+spacy==2.3.5
+gensim==4.0.1
