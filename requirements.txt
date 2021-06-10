@@ -6,3 +6,4 @@ pyarrow==4.0.1
 spacy==2.3.5
 gensim==4.0.1
 python-Levenshtein==0.12.2
+wordcloud==1.8.1
