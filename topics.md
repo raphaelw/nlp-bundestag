@@ -114,7 +114,7 @@ With manual annotations.
 
 ![Topic 28](wordclouds/wordcloud_28.png "Topic 28")
 
-## Topic 29: 
+## Topic 29: Military missions (Militäreinsätze)
 
 ![Topic 29](wordclouds/wordcloud_29.png "Topic 29")
 
@@ -134,7 +134,7 @@ With manual annotations.
 
 ![Topic 33](wordclouds/wordcloud_33.png "Topic 33")
 
-## Topic 34: 
+## Topic 34: Gender equality (Gleichberechtigung)
 
 ![Topic 34](wordclouds/wordcloud_34.png "Topic 34")
 
