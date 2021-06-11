@@ -1,6 +1,7 @@
 # Project related
 /data/opendiscourse/
 /data/dump/
+*.slides.html
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
